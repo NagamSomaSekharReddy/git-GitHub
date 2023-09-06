@@ -1,0 +1,8 @@
+For creating branches
+-->git branch branch-name
+-->or we can use git checkout -b branch-name
+-->we can also fix the bugs after using the second command it will redirect to the branch that we have mentioned in the command if it exists. else it will create a new branch on that name.
+-->we can use git checkout new-branch-name
+-->that will switch to the represented branch.
+--> we can commit the branch using git checkout -b new-branch-name commit-hash
+--> we can see all the branches of the repository using git branch.

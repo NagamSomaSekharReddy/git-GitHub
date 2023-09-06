@@ -1,0 +1,15 @@
+For creating the repository
+-->we need to click on the create repository.
+-->name the repository
+-->descripition of the repository
+-->visibility either public or private
+-->intialize the repository using readme file
+
+To update in github
+-->firstly we need to clone the entire repository using git clone command
+        git clone url
+-->then are can made the modifications after we meed to move the code from working directory to stagging area to local repository to remote repository
+--> using git add . we can move entire files to stagging area.
+-->using git commit -m "message" we can push our code to local repository.
+-->we need to connect to the remote repository using git remote add <name> <url>
+--> then we can push our code to remote repository using git push -u origin branch.

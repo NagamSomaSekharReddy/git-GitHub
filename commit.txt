@@ -1,0 +1,2 @@
+Make changes to the codebase and commit them. 
+-->when we made the changes in our code we need to commit the changes to the local repository using git commit -m "what are the changes in the code has been made".

@@ -1,0 +1,3 @@
+using git clone <url> command we can clone the entire repository into our working directory.
+or using git clone -b <name> <url>
+how to clone a singlefileusing git...

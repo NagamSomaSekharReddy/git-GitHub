@@ -1,0 +1,29 @@
+About push
+--> git push we can push our code into remote repository.
+-->git push default pushes to origin branch.
+--> git push --all it push all the code to remote repository.
+-->git push remote_name local_branch:remote_branch it will push to a specific local branch to remote branch
+-->git push --tags to push to the remote repository. 
+-->git push remote_name --delete remote-branch to delete a branch on remote repository.
+--> git push --force it will push the local code forcefully to overwrite remote changes.
+-->git push --force-with-lease a safer alternative to force pushing that helps to prevent accidental data loss.
+--> git push -u remote_name local_branch to push a new branch into remote repository.
+-->git push remote_name commit_m:remote_branch to push a specific commmit on a branch on the remote repository.
+
+
+About pull
+--> git pull if fetches and merge the change that are made in remote repository to local repository.
+--> git pull --rebase used to fetch the changes from remote repository and rebase your current branch onto the updated state of the remote branch.rebase means that will alter your base or starting point.
+-->git pull --all to fetch changes from all branches in the remote repository to local repository.
+-->git pull origin branch it fetch changes from specific remote repository to local repository.
+-->git pull remote-name branch-name it fetch the from specific remote and wnat to pull specific one.
+
+About fetch
+-->git fetch it will used to retrieve the lastest changes from a remote repository without merging or rebasing them into your current branch.
+--> git fetch remote-name it will fetch changes from specific remote-name.
+
+
+difference between push,pull,fetch.
+git push will used to push code to remote from local repository.
+whereas git pull if fetches and merge changes from remote to local repository.
+git fetch it will retrieve changes without affecting your working branch.
