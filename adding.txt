@@ -1,0 +1,3 @@
+About the add command
+-->git add . or git add * or git add --all we can move all the files into the stagging area.
+-->git add <filename> using this command wwe can move only a particular file to the stagging area.
