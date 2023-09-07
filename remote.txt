@@ -1,0 +1,11 @@
+remote
+-->using git remote we can add,view,rename,remove remote repositories.
+->view
+-->git remote we can see all the remote repositories that are added.
+-->git remote -v Shows a more detailed list of remote repositories along with their URLs.
+-->adding
+-->git remote add <remote-name> <url> by using this command we can add the remote repo to our project.
+-->rename
+-->git remote rename <pervious-name> <new-name> using this command we can rename the remote repository.\
+-->remove
+-->git remote remove <name> using this command we can remove the remote repository.
