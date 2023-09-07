@@ -1,0 +1,8 @@
+pull Request
+-->git clone <url> that we can clone the repository if we don't have in our local repository.
+-->git checkout -b <branch-name> that will create a new branch to working the pull request.
+-->make the changes in the branch and add and commit the file using the git add and git commit.
+-->push the code into remote repo using the git psuh command.
+-->and then open a github you will see a button compare&pull request.
+-->make a clear description of thechanges in the write part and submit.
+-->Owner will see pull request and merge the updates to main branch.

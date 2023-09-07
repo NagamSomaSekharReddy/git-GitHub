@@ -1,0 +1,6 @@
+Reset
+-->using git reset we can unstage the all.
+-->git reset <file> we can unstage the specific file.
+-->git reset --hard it will unstage all the uncommited files. 
+-->git restore <file>also works same as the git reset it also unstage the specific file.
+-->git revert using the revert command we can undo the commit 
