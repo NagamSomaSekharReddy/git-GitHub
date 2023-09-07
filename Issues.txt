@@ -1,0 +1,7 @@
+Issues is used to report a bug or to enhace the code with new ideas to the paricular group or owner of the project .
+Issue is like to do list for a particular person.
+-->On GitHub we can see issue by clicking that we can raise a issue.
+-->we need to mention the Tilte of the issue and details of issue in the write part.
+-->it will auotmatically generate a id number like #1 using this we can hyperlink to the issue we are  like close the issue.
+-->we can also assign and label the issues according to our needs.
+-->we can also create sub issues using - [ ] in write part of the issue.

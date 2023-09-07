@@ -1,0 +1,11 @@
+Collaboration using GitHub.
+-->Collaborator Workflow:
+-->Establish a workflow that all contributors will follow. A common approach is the feature branch workflow:
+-->Host your project's repository on a platform like GitHub, GitLab, or Bitbucket. Invite your collaborators to the repository.
+-->Create a branch for each new feature or bug fix.
+-->Make changes in your branch.
+-->Push your branch to the remote repository.
+-->Create a pull request (PR) or merge request (MR) to propose changes.
+-->Collaborate and iterate on the changes within the PR/MR.
+-->Reviewers can provide feedback and approve the changes.
+-->Merge the PR/MR into the main branch when it's ready.

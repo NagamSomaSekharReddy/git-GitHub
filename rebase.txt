@@ -1,0 +1,8 @@
+Rebase used on the private repository.
+rebase is used to add the new features to the main of the latest-branch from the working branch.It rebase to the maun base.
+let's assume it as a working branch --->---->---> and main branch -->-->-->-->* after using the rebase command the working branch are merge with main base.
+-->-->-->-->*-->-->--> and main branch will looks like this.
+commands that are used for the rebase are
+-->git checkout feature & git rebase master it will rebase feature to master branch.
+-->git rebase i <base>
+ 
