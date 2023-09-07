@@ -1,0 +1,13 @@
+merge and resolve conflicts
+-->git clone <url> that we can clone the repository if we don't have in our local repository.
+-->git checkout -b <branch-name> that will create a new branch to working the pull request.
+-->git fetch orgin (or) git pull origin main that local repository is updated with remote repository.
+-->git checkout switch to pull request branch you want to merge.
+-->git merge main To ensure your pull request branch is up-to-date with the latest changes from main, merge main into your pull request branch.
+-->if there are conflicting changes between your pull request branch and main, you'll need to resolve these conflicts manually. Open the conflicting files in a text editor and look for sections marked with conflict markers (<<<<<<<, =======, >>>>>>>).
+-->Edit the files to resolve the conflicts, keeping the changes you want, and removing the conflict markers.
+-->After resolving conflicts, save the files.
+-->then add and commit to move into stagging area using git add . & git commit -m "resolve conflict and merge with main".
+-->using git push origin <pull-request-branch> push the changes into pull request branch.
+-->Go to the platform where the pull request was created (e.g., GitHub) and review the changes. You should now see that the conflicts have been resolved and that your branch is up-to-date with main.
+-->you can now merge the pull request. Depending on the platform, you may need appropriate permissions or approvals to do this.
