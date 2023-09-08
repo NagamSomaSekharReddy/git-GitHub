@@ -1,0 +1,5 @@
+#git ignore
+#--> we can generate git ignore file.
+#-->then we add what are the files that we need to ignore that are mentioned in the git-ignore file.##
+some.txt
+test.py
