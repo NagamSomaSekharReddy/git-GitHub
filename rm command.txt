@@ -1,0 +1,8 @@
+rm Command:-
+-->rm command is to delete the file form working directory and stage area.
+-->git rm <file/directory> will remove the file from the working directory.
+-->git rm --cached <file> using this command we can delete the file from the stage area and not from the working directory.
+-->git r  -f <file> if a file is modified but not yet committed, Git will refuse to remove it without the -f or --force option. This option forces the removal.
+-->git rm '.txt' You can use wildcards or patterns to remove files that match a certain criteria.
+-->git rm <file> and then git commit -m "messsage" it will remove from both the repository and working directory.
+--> git diff <path> we can see the difference between the updated file and the pervious file.  

@@ -1,0 +1,10 @@
+-->git push --force:
+-->Use when you need to push changes to a remote repository that are not part of the existing history.
+-->git branch -D (or --force-delete):
+-->Use when you want to forcefully delete a branch, even if it contains unmerged changes.
+-->git reset --hard:
+-->Use when you want to reset your local branch to a specific commit and discard all changes and commits that came after that commit.
+-->git rebase --force:
+-->Use when you're rebasing your branch and need to rewrite commit history.
+-->git pull --rebase --force:
+-->Use when you're pulling changes from a remote repository with the --rebase option, and you need to force the rebase even if it results in conflicts.
