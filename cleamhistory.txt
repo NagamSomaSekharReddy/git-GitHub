@@ -1,0 +1,5 @@
+clean history
+--> git rebase main
+-->using this command We can incorporating changes from one branch into another, consider using git rebase instead of git merge. Rebasing replays your local commits on top of the target branch's latest commits, creating a linear history without merge commits.
+-->git rebase -i main
+-->When preparing your feature branch for merging, you can use interactive rebasing to squash or reorganize commits before merging them into the main branch. This helps keep your commit history clean and focused.
