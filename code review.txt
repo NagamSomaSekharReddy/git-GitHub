@@ -1,0 +1,4 @@
+-->Code Review
+-->After the modification of the file push o=into the remote repo and then raaise a pull request .
+-->While others can see the pull request and review the code if it okay they will merge the code else they can add comments to the file and then we can see the comments and modifiy again create a pull request.
+-->Each can mention their comments on the reviewing code.
